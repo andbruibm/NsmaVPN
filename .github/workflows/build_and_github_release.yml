@@ -1,4 +1,4 @@
-name: Build and Github Release
+name: Build and Github Release v1
 run-name: Cooking the next version
 
 on:
